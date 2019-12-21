@@ -1,0 +1,118 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar {
+    -webkit-box-shadow: 0 0 30px 10px #701BD1;
+    box-shadow: 0 0 30px 10px #701BD1;
+
+    border-radius: 10px 200px 200px 10px;
+    -moz-border-radius: 10px 200px 200px 10px;
+    -webkit-border-radius: 10px 200px 200px 10px;
+    border: 0px solid #000000;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+ul li a {
+    font-size: 20px;
+}
+
+/* banner section*/
+div.col-12 {
+    padding: 0 0;
+}
+
+/* About Section*/
+
+#about {
+    border-radius: 50px;
+    background: linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,0.5)), 
+                url(/img/bg-1.jpg)center/cover fixed no-repeat;
+
+    border-radius: 0px 0px 200px 0px;
+    -moz-border-radius: 0px 0px 200px 0px;
+    -webkit-border-radius: 0px 0px 200px 0px;
+    border: 0px solid #000000;
+
+    -webkit-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+
+}
+
+/* Skills*/
+
+#skills {
+    border-radius: 50px;
+    background: linear-gradient(to right, rgba(0,0,0,0.2), rgba(0,0,0,0.5)), 
+                url(/img/bg-2.jpg)center/cover fixed no-repeat;
+    
+    border-radius: 0px 200px 0px 0px;
+    -moz-border-radius: 0px 200px 0px 0px;
+    -webkit-border-radius: 0px 200px 0px 0px;
+    border: 0px solid #000000;
+
+    -webkit-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+
+}
+
+/* Projects*/
+
+#projects img {
+    -webkit-box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 24px 0px rgba(0,0,0,0.75);
+}
+
+#projects {
+    -webkit-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+
+    border-radius: 50px;
+    background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url(/img/bg-3.jpg)center/cover fixed no-repeat;
+}
+
+
+#contact {
+    -webkit-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+
+
+
+    border-radius: 50px;
+    background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url(/img/bg-5.jpg)center/cover fixed no-repeat;
+}
+
+#contact .card-body {
+    border-radius: 200px 10px 200px 10px;
+    -moz-border-radius: 200px 10px 200px 10px;
+    -webkit-border-radius: 200px 10px 200px 10px;
+    border: 0px solid #000000;
+}
+
+#footer {
+
+    border-radius: 10px 200px 200px 10px;
+    -moz-border-radius: 10px 200px 200px 10px;
+    -webkit-border-radius: 10px 200px 200px 10px;
+    border: 0px solid #000000;
+
+    -webkit-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 11px 22px -2px rgba(0,0,0,0.75);
+    
+    background: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.9)), url(/img/bg-4.jpg)center/cover fixed no-repeat;
+}
+
+
